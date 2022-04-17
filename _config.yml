@@ -121,4 +121,5 @@ tag_archive:
 
 comments:
   provider: "disqus"
-  shortname: "sp_et0892_2022_1"
+  disqus:
+    shortname: "sp_et0892_2022_1"
