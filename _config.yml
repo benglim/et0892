@@ -126,3 +126,13 @@ tag_archive:
 #     shortname: "sp_et0892_2022_1"
 
 repository: "benglim/et0892"
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOHMEXYQ" # Shown during giscus setup at https://giscus.app
+    category_name        : "General" # Full text name of the category
+    category_id          : "DIC_kwDOHMEXYc4COniJ" # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
