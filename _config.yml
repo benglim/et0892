@@ -124,3 +124,5 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "sp_et0892_2022_1"
+
+repository: "benglim/et0892"
