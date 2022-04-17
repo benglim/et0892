@@ -58,17 +58,17 @@ plugins:
 author:
   name   : "NG Beng Lim"
   avatar : "/assets/images/nbl.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Having spent much of my career in IT management and consulting, it is time to give back to society by sharing my experience with the academic community."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.moootech.tk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/benglim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -83,7 +83,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/benglim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -118,3 +118,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  shortname: "moootech"
