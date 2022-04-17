@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Singapore Polytechnic/EEE/Data Analytics/ET0892
 twitter_username: benglim
 github_username: benglim
-minimal_mistakes_skin: aqua # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
