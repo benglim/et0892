@@ -1,5 +1,5 @@
 ---
-title: "Week 01: Lesson Plan"
+title: "Lesson Plan: W01"
 last_modified_at: 2022-04-17T12:00:00+8:00
 
 categories:
@@ -13,7 +13,7 @@ tags:
 
 
 - [ ] Self intro
-
+- [ ] class intro (1 min)
 - [ ] Rules of engagement
 - [ ] Briefing on course 
 - [ ] 
