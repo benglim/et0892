@@ -22,7 +22,15 @@ tags:
 structure
 - [ ] Career on DS [IMDA Skills Framework for ICT](https://www.imda.gov.sg/cwp/assets/imtalent/skills-framework-for-ict/index.html)
 - [ ] Data Science definition
+- [ ] R vs Python
 - [ ] Chapter 1 lessons
 
 ---
+
+
+If you are interested, this is a good overview video.
+
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/edZ_JYpOM8U/0.jpg)](https://www.youtube.com/watch?v=edZ_JYpOM8U)
+
+
 
