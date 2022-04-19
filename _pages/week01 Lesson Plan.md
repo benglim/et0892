@@ -16,7 +16,6 @@ tags:
 - [ ] class intro (1 min)
 - [ ] Rules of engagement
 - [ ] Briefing on course 
-- [ ] 
 - [ ] Conduct Lab Risk Mgmt
 - [ ] Briefing on Assignment
 structure
