@@ -11,13 +11,12 @@ tags:
 
 ---
 
-Hi everyone. I recently joined Singapore Polytechnic as an Adjunct Lecturer. Before that I worked my way from a techncal engineer to that of CIO in several organisations. I hope my working experience will be of benefit in my interactions with you.
+Hi all. We are starting now on the second week of lessons. Last week was quite easy going as we have not actually touched on the major aspects of Data Analytics. In the coming weeks, the materials will be getting more technical, so it will rely a bit more on your Mathematics background. But don't be too discouraged as we just need you to grasp the key concepts and you just need to understand how the apply them to the relevant models.
 
-I am glad that all of you have taken the step to upgrade yourselves. You have to sacrifice a fair bit by embarking on this journey, but I assure you the benefits will far outweight the alternative.
-
-During the course of the academic term, I will follow closely the curriculum as outlined in PoliteMall. However, there will be activities beyond the course whicch I hope will add some variety to the dry subject of Data Analytics. I welcome feedback on what other things you would like to see.
-
-I hope to communicate with you further outside classroom hours through this offline media: blogs. Feel free to contact me.
+Admin:
+1. We would need to agree on the make-up date for Week 03 as it falls on a public holiday.
+2. You should have already formed your teams and decide on a data set to work on.
+3. We will be starting on the lab for Spotfire. Please ensure your software and licences are in order.
 
 ---
 Regards
@@ -27,6 +26,5 @@ Beng Lim
 
 ## Other Notes
 
-### Data Science infographics
 
 
