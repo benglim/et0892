@@ -7,8 +7,12 @@
         "id": "4183ff6f689325b9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-04-25-Week02-Beginning.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-04-25-Week02-Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,8 @@
     "collapsed": true
   },
   "active": "4183ff6f689325b9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2022-04-25-Week02-Beginning.md",
+    "_posts/2022-04-17-Week01-Intro.md"
+  ]
 }
