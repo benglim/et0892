@@ -1,6 +1,6 @@
 ---
 title: "Week 02: The Beginning"
-last_modified_at: 2022-04-25T00:00:01+8:00
+last_modified_at: 2022-04-28T00:00:01+8:00
 
 categories:
   - Blog
@@ -25,6 +25,12 @@ Beng Lim
 
 
 ## Other Notes
+
+Please note that all files are now stored in MS Teams. Please visit the site to get more info.
+
+Also there will be no class this coming Tuesday, 3rd May. The makeup class is on 9th May at T913 lab.
+
+
 
 
 
