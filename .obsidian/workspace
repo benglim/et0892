@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "099f553f707f5f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4183ff6f689325b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-04-17-Week01-Intro.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a7c8eb8251c4563",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc19af2d46d9797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc5ed6add63740b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a74fbfdbfcca1fd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cae557bce56fa176",
+    "type": "split",
+    "children": [
+      {
+        "id": "a765095a44117702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9c25ceb97a269b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-04-17-Week01-Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4183ff6f689325b9",
+  "lastOpenFiles": [
+    "_posts/2022-04-17-Week01-Intro.md",
+    "_posts/2022-04-25-Week02-Beginning.md"
+  ]
+}
